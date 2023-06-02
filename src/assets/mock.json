@@ -1,0 +1,9 @@
+{
+  "normativos_cnj":[
+    {"id": "1", "descricao":"normativo 01", "numero": 370},
+    {"id": "2", "descricao":"normativo 02", "numero": 200},
+    {"id": "3", "descricao":"normativo 03", "numero": 84},
+    {"id": "4", "descricao":"normativo 04", "numero": 98},
+    {"id": "5", "descricao":"normativo 05", "numero": 12}
+  ]
+}
